@@ -1,1 +1,1 @@
-# Fibonacci-Serries-Python
+# Fibonacci-Series-Python
